@@ -1,0 +1,20 @@
+export const CATEGORIES = [
+	{ id: 93, name: "Business" },
+	{ id: 68, name: "Comedy" },
+	{ id: 77, name: "Education" },
+	{ id: 125, name: "Fiction" },
+	{ id: 88, name: "Health & Fitness" },
+	{ id: 82, name: "History" },
+	{ id: 99, name: "Kids & Family" },
+	{ id: 132, name: "Leisure" },
+	{ id: 100, name: "Music" },
+	{ id: 122, name: "News" },
+	{ id: 130, name: "Religion & Spirituality" },
+	{ id: 67, name: "Society & Culture" },
+	{ id: 107, name: "Science" },
+	{ id: 127, name: "Sports" },
+	{ id: 135, name: "Technology" },
+	{ id: 135, name: "True Crime" },
+	{ id: 68, name: "TV & Film" },
+	{id:0,name:"All"}
+];
